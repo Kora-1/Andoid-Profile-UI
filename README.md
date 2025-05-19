@@ -10,7 +10,7 @@ The task required building an Android Profile Activity, with an interface and fu
 
 Below is a screenshot of the Profile Activity as implemented:
 
-![Profile UI Screenshot](UI_Image.jpg)
+![Profile UI Screenshot](UI_Image.png)
 
 ## Tech Stack
 
